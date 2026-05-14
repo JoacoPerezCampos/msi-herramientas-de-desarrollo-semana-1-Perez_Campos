@@ -4,4 +4,6 @@
 
 # PÉREZ CAMPOS, JOAQUIN
 
-# Sobre Mí
+## Sobre Mí
+
+## Habilidades Técnicas
